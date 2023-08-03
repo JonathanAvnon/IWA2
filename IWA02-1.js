@@ -6,6 +6,6 @@ const user = 'John';
 
 //This is the lastname of hte user
 
-const surName = 'Smith';
+const surname = 'Smith';
 
-console.log(user, surName)
+console.log(user, surname);
